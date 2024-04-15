@@ -1,0 +1,18 @@
+Produit 1 
+Référence : 1
+Nom : Ordinateur
+Quantité : 10
+Prix Unitaire : 100000.00
+
+Produit 2 
+Référence : 2
+Nom : Imprimante
+Quantité : 2
+Prix Unitaire : 50000.00
+
+Produit 3 
+Référence : 3
+Nom : Souris
+Quantité : 3
+Prix Unitaire : 10000.00
+
